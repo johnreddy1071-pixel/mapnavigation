@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+/.pnp
+.pnp.js
+
+# Next.js build output
+.next/
+out/
+build/
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# OS & IDE
+.DS_Store
+*.pem
+.vscode/
+.idea/
+
+# Environment variables
+.env*.local
+.env
+
+# Scratch and temporary testing data
+fetch_osm.py
+parse_osm.py
+osm_campus_raw.json
+osm_campus_bbox.osm
+au_campus_osm_way.json
