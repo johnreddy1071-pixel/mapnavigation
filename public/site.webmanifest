@@ -1,0 +1,9 @@
+{
+  "name": "AI Gravity - Annamacharya University Navigator",
+  "short_name": "AI Gravity",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0f19",
+  "theme_color": "#1764f3",
+  "description": "Smart Campus Navigation for Annamacharya University, Rajampet"
+}

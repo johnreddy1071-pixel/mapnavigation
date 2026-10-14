@@ -1,0 +1,5 @@
+# AI Gravity - Annamacharya University Navigator
+User-agent: *
+Allow: /
+
+Sitemap: https://annamacharyauniversity.edu.in
